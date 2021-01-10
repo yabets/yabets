@@ -1,5 +1,10 @@
 ### Hello, I am Yabets 👋
 - 🔭 I’m currently working on Java
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on React.js projects
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: yabetsbelay@gmail.com
+
 <!--
 **yabets/yabets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
