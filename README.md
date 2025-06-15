@@ -1,4 +1,4 @@
-### Hello, I am Yabets 👋
+### Hello, I am Yabi 👋
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Rust projects
